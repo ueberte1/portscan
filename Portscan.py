@@ -1,6 +1,6 @@
 import socket
 
-IP_ADDRESS = '192.168.1.4'
+IP_ADDRESS = 'enter ip'
 
 
 with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
